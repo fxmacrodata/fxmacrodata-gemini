@@ -1,0 +1,9 @@
+{
+  "name": "fxmacrodata",
+  "version": "1.0.0",
+  "description": "Official-source macroeconomic releases, economic calendars, FX reference rates and market research through FXMacroData.",
+  "mcpServers": {
+    "fxmacrodata": {"httpUrl": "https://mcp.fxmacrodata.com"}
+  },
+  "contextFileName": "GEMINI.md"
+}
